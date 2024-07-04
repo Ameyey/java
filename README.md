@@ -1,2 +1,4 @@
 # new
-<p>This is my first Git Repository</p>
+Author Amey 
+This is my first Git Repository
+
