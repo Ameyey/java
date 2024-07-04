@@ -1,2 +1,2 @@
 # new
-<h1>This is my first Git Repository</h1>
+<pThis is my first Git Repository</p>
